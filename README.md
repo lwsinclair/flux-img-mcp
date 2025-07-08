@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ckz-flux-img-mcp-badge.png)](https://mseep.ai/app/ckz-flux-img-mcp)
+
 # Flux Image MCP Server
 
 This MCP server provides image generation capabilities using the Flux Schnell model on Replicate.
